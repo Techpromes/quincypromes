@@ -70,12 +70,11 @@ section {
 .home {
     height: 100vh;
     /* background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)); */
-    background: url('../images/2.jpg');
+    background: url('../images/vin3.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-
-
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: center;
